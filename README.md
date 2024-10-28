@@ -4,7 +4,7 @@
 > This project is dicontinued. \
 > I changed the project to a React app and put it into a [new repository](https://github.com/muederotter/petitepomodoro/).
 
-I will leave this project public for educational purposes.
+I will leave this project public for educational purposes and you are still able to use this version if you like it more.
 
 ## About the Project
 This is a small and customizable pomodoro timer that you can integrate into OBS Studio. Feel free to use it in your next learn-with-me stream!
